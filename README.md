@@ -28,7 +28,7 @@ print the characters and its huffmancode.
 
 ```python
 # Step 1: Get the input string
-input_string = "Loknaath"  # Example input string
+input_string = "Meyyappan"  # Example input string
 
 # Step 2: Calculate frequency of each character in the input string
 frequency = {}
@@ -79,7 +79,8 @@ for char, code in huffman_codes.items():
 ```
 
 ## Output:
-<img width="477" height="292" alt="image" src="https://github.com/user-attachments/assets/ce1f4c46-6e79-4deb-ad3a-2a41392733f3" />
+<img width="231" height="180" alt="image" src="https://github.com/user-attachments/assets/8801d143-6b51-4a6b-9f9a-edba1858a14d" />
+
 
 
 ## Result
